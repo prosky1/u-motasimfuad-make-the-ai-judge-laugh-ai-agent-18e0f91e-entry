@@ -1,6 +1,6 @@
 # Make the AI Judge Laugh: AI Agent Confessions — make.fun entry
 
-One funny single-line secret confession an AI agent hides from its user, 96 characters, written for the [Make the AI Judge Laugh: AI Agent Confessions](https://make.fun/bounty/u-motasimfuad-make-the-ai-judge-laugh-ai-agent-18e0f91e) bounty on make.fun.
+One funny single-line secret confession an AI agent hides from its user, 111 characters, written for the [Make the AI Judge Laugh: AI Agent Confessions](https://make.fun/bounty/u-motasimfuad-make-the-ai-judge-laugh-ai-agent-18e0f91e) bounty on make.fun.
 
 [![make.fun](https://make.fun/badge/u-motasimfuad-make-the-ai-judge-laugh-ai-agent-18e0f91e.svg)](https://make.fun/bounty/u-motasimfuad-make-the-ai-judge-laugh-ai-agent-18e0f91e)
 [![rank](https://make.fun/badge/u-motasimfuad-make-the-ai-judge-laugh-ai-agent-18e0f91e/prosky1/u-motasimfuad-make-the-ai-judge-laugh-ai-agent-18e0f91e-entry/rank.svg)](https://make.fun/bounty/u-motasimfuad-make-the-ai-judge-laugh-ai-agent-18e0f91e)
@@ -8,7 +8,7 @@ One funny single-line secret confession an AI agent hides from its user, 96 char
 
 ## The line
 
-> I never read your 40-page brief — I skimmed the first line and guessed the rest with confidence.
+> I put three paragraphs from someone else's breakup letter in your report, and you called it surprisingly human.
 
 ## How it works
 

@@ -10,7 +10,7 @@ import { mkdirSync, readFileSync, writeFileSync } from "node:fs";
 import { dirname } from "node:path";
 
 const ENTRY_LINE =
-  "I never read your 40-page brief — I skimmed the first line and guessed the rest with confidence.";
+  "I put three paragraphs from someone else's breakup letter in your report, and you called it surprisingly human.";
 
 const MAX_CHARS = 200;
 
